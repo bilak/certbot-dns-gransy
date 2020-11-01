@@ -1,0 +1,5 @@
+certbot>=0.15
+dns-lexicon>=3.2.3
+zope.interface
+setuptools
+zeep>=4.0.0
