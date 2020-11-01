@@ -4,6 +4,15 @@
 
 `pip install certbot-dns-gransy`
 
+## Configure
+
+add following entries to gransy.ini
+
+```
+dns_gransy_auth_username=<your username>
+dns_gransy_auth_password=<your password>
+```
+
 ## Run
 
 ```
