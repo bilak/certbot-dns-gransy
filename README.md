@@ -1,4 +1,4 @@
-# Gransi (Subreg) Authenticator certbot plugin
+# Gransi (Subreg) certbot authenticator plugin
 
 ## Install
 
